@@ -32,7 +32,7 @@ CustomRoms/                <- Main directory
 └─ RomTool.py              <- Your main script
 ```
 
-> **Note:** Add your devices as separate folders inside `CustomRoms/`. Place ROMs in the `Roms/` folder and recovery/boot files in `Recoverys/Boot/`.
+> **Note:** Add your devices as separate folders inside `CustomRoms/`. Place ROMs in the `Roms/` folder and recovery and super_empty files in `Recoverys` and Boot imgs in `Boot` .
 
 ---
 
