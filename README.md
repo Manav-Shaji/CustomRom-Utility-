@@ -1,4 +1,3 @@
-```markdown
 # Custom ROM Tool
 
 A Python-based tool to manage and flash ROMs and recoveries for multiple Android devices. This tool provides a simple GUI interface using **CustomTkinter** for selecting devices, browsing ROMs/recoveries, and performing fastboot/ADB operations.
@@ -7,18 +6,17 @@ A Python-based tool to manage and flash ROMs and recoveries for multiple Android
 
 ## Features
 
-- Detect connected devices via **ADB**.
-- Flash ROMs and recoveries to multiple devices.
-- Custom commands execution.
-- Interactive GUI for easy navigation.
-- Logging of all operations.
+* Detect connected devices via **ADB**.
+* Flash ROMs and recoveries to multiple devices.
+* Custom commands execution.
+* Interactive GUI for easy navigation.
+* Logging of all operations.
 
 ---
 
 ## Folder Structure
 
 ```
-
 CustomRoms/                <- Main directory
 │
 ├─ Poco F1/                <- Device folder example
@@ -32,8 +30,7 @@ CustomRoms/                <- Main directory
 │     └─ Boot/
 │
 └─ RomTool.py              <- Your main script
-
-````
+```
 
 > **Note:** Add your devices as separate folders inside `CustomRoms/`. Place ROMs in the `Roms/` folder and recovery/boot files in `Recoverys/Boot/`.
 
@@ -42,11 +39,12 @@ CustomRoms/                <- Main directory
 ## Dependencies
 
 ### Python Libraries
+
 Install the required Python packages using pip:
 
 ```bash
 pip install customtkinter
-````
+```
 
 > Optional: If you use any additional Python libraries in your script, include them here.
 
@@ -104,15 +102,6 @@ python RomTool.py
 
 ---
 
-## Troubleshooting
-
-- **Device not detected:** Ensure USB Debugging is enabled and drivers are installed.
-- **ADB/Fastboot not found:** Make sure platform-tools are added to PATH.
-- **Script errors:** Run the script in a terminal to see detailed logs in `Logs/Tool.log`.
-
----
 ## License
 
 This project is open-source. You are free to use, modify, and distribute under the terms of the MIT License.
-
----
