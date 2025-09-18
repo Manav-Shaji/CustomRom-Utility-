@@ -92,6 +92,25 @@ python RomTool.py
 
 ---
 
+## Screenshots
+
+### Main GUI
+
+![Main GUI](screenshots/GUI.png)
+
+### Main Folder Selection
+
+![Main folder selection ](Screenshots/Mainfolderselection.png)
+
+### Device Selection
+
+![Main GUI](Screenshots/DeviceSelection.png)
+
+### Log File
+
+![Log](Screenshots/Log.png)
+---
+
 ## Notes
 
 * Ensure **USB Debugging** is enabled on your Android device.
