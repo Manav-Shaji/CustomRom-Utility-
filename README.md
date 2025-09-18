@@ -46,8 +46,6 @@ Install the required Python packages using pip:
 pip install customtkinter
 ```
 
-> Optional: If you use any additional Python libraries in your script, include them here.
-
 ### External Tools
 
 This tool depends on **ADB** and **Fastboot**. You must install them separately:
