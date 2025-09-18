@@ -106,7 +106,7 @@ python RomTool.py
 
 ### Device Selection
 
-![Main GUI](Screenshots/DeviceSelection.png)
+![Device Seletion](Screenshots/DeviceSelection.png)
 
 ### Log File
 
