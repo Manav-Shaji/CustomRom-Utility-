@@ -1,5 +1,7 @@
 # Custom ROM Tool
 
+> **Disclaimer:** Improper usage of this tool can **BRICK** or **BOOTLOOP** your device. Use at your own risk. Always make a backup before performing any flashing operations.
+
 A Python-based tool to manage and flash ROMs and recoveries for multiple Android devices. This tool provides a simple GUI interface using **CustomTkinter** for selecting devices, browsing ROMs/recoveries, and performing fastboot/ADB operations.
 
 ---
