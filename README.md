@@ -96,7 +96,7 @@ python RomTool.py
 
 ### Main GUI
 
-![Main GUI](screenshots/GUI.png)
+![Main GUI](Screenshots/GUI.png)
 
 ### Main Folder Selection
 
