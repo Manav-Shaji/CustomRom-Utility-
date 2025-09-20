@@ -108,6 +108,10 @@ python RomTool.py
 
 ![Device Seletion](Screenshots/DeviceSelection.png)
 
+### Sideloading
+
+![Sideloading](Screenshots/Sideloading.png)
+
 ### Log File
 
 ![Log](Screenshots/Log.png)
